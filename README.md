@@ -7,4 +7,5 @@ Simple game using python , have FUN !!!
 LIBs:
 
 colorama
+
 prettytable
